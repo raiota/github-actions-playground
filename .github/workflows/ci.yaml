@@ -3,7 +3,7 @@ name: ci
 on:
   pull_request:
     branches:
-      - chapter2-cicdhandson
+      - main
 
 jobs:
   ci:
